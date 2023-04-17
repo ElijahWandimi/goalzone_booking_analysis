@@ -16,4 +16,6 @@ Example visualisations:
 Uses logistic regression and xgboost machine learning algorithms to predict whether a booked slot will be attended.<br>
 These predictions are used to find out the factors with most influence on the attendance.
 
+The analysis results in this project could potentially increase GoalZone's customer retention and aid in new customer attraction.
+
 *the data used is provided by DataCamp*
